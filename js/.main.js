@@ -1,0 +1,1 @@
+function getAmount (coinType)
